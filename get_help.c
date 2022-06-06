@@ -1,5 +1,3 @@
-get_help.c
- 
 #include "main.h"
  
 /**
